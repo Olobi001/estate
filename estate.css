@@ -1,0 +1,205 @@
+ul{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    display: flex;
+    list-style-type: none;
+    /* border: 20px soild black; */
+    background-color: red;
+    justify-content: space-between;
+    /* width: 20px; */
+    padding: 20px;
+    position: sticky;
+    
+}
+li{
+    margin: 0;
+    padding: o;
+    /* width: 1px; */
+    
+    display: flex;
+    color: white;
+}
+li a{
+    text-decoration: none;
+    display: flex;
+    color: white;
+    /* width: 5px; */
+    
+    
+}
+h1{
+    /* color: white; */
+}
+.find{
+    background-color: #fff;
+    text-align: center;
+}
+.pep{
+    background-image: url(colonial-style-house-night-scene.jpg);
+    background-size: cover;
+    height: 30rem;
+    width: auto;
+}
+.fea{
+    /* margin-left: 50px; */
+    text-align: center;
+}
+.ven{
+    /* width: 150px; */
+    /* width: 150px; */
+    display: flex;
+    justify-content: space-between;
+    /* text-decoration: none; */
+    
+}
+.ven a{
+    text-decoration: none;
+}
+.omg{
+    width: 90%;
+}
+.pic{
+    width: 90%;
+    height: 60vh;
+}
+.lekki{
+    display: flex;
+    justify-content: space-between;
+}
+.lekki a{
+    text-decoration: none;
+}
+.cap{
+    width: 100vh;
+}
+.pep{
+    width: 250%;
+    /* height: 150px; */
+    height: 50vh;
+}
+.oga{
+    width: 250%;
+    height: 50vh;
+}
+.ff{
+
+   margin-left: 450px;
+   color: #032B44;
+}
+.cur{
+    /* width: 180px; */
+    /* height: 300px;
+    margin-top: 50px; */
+}
+.real{
+    margin-left: 50px;
+    /* font-size: large; */
+}
+th{
+    /* text-align: left; */
+}
+/* .pool{
+    /* display: flex; */
+    display: grid;
+    /* justify-content: space-between; */
+    grid-template-columns: 50% 50% 50%;
+    /* size: 50px; */ */
+}
+.pool a{
+    /* text-decoration:none ; */
+}
+.jamz{
+    width: 75%;
+    /* height: 50px; */
+}
+.lux{
+    width: 75%;
+}
+.room{
+    /* width: 75%; */
+}
+.abj{
+    /* justify-content: space-between; */
+    /* grid-template-columns: 35% 35% 35%; */
+
+}
+.ib{
+    margin-left: 150px;
+    /* width: 50%; */
+    /* margin-right: 50px; */
+}
+.offa{
+    margin-left: 90px;
+}
+.boy{
+    margin-left: 50px;
+}
+.oyo{
+    margin-right: 30px;
+}
+.color{
+    background-color: #032B44;
+}
+.age{
+    display: flex;
+    justify-content: space-between;
+}
+.bbb{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.bbb a{
+    text-decoration: none;
+}
+.shii{
+    /* width: 90%; */
+}
+.jaga{
+    /* width: 90%; */
+}
+.del{
+    justify-content: space-between;
+}
+.pop{
+    background-color: #032B44;
+}
+.area{
+    display: flex;
+}
+.boy{
+    display: flex;
+    justify-content: space-between;
+}
+.find{
+    text-align: center;
+}
+.our{
+    margin-left: 320px;
+}
+.phone{
+    text-align: center;
+}
+.wood{
+    margin-left: 760px;
+}
+.sale{
+    /* display: flex; */
+}
+.footer{
+    background-color: #032B44;
+    height: 50vh;
+}
+.for{
+    display: flex;
+}
+.rent{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    justify-content: space-between;
+    background-color: blue;
+}
+.us{
+    display: flex;
+}

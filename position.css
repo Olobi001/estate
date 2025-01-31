@@ -1,0 +1,52 @@
+h1{
+    position: static;
+    top: 20px;
+}
+.relative{
+    border: 2px solid yellow;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 70px;
+}
+.fixed{
+    background-color: #f00;
+    width: 30%;
+    position: fixed;
+    color: #fff;
+    bottom: 10px;
+    left: 10px;
+
+}
+body{
+    /* padding-bottom: 2000px; */
+}
+.ancestor{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border: 2px solid #000;
+}
+.absolute{
+    position: absolute;
+    right: 30px;
+    top: 50px;
+    height: 100px;
+    width: 100px;
+    border: 2px solid #f0f;
+}
+.stricky{
+    background-color: #f0f;
+    width: 20%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+
+}
+.strickyy{
+    background-color: #f0f;
+    width: 20%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+}

@@ -1,0 +1,36 @@
+li{
+    display: inline;
+}
+.me{
+    width: 300px;
+    border: 2px solid #f0f
+}
+.you{
+    max-width: 600px;
+    border: 2px solid #f00;
+    margin-top: 20px;
+}
+div .a{
+    background-color: #ff0;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    display: inline;
+}
+div .b{
+    background-color: #f0f;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    display: inline-block;
+}
+div .c{
+    background-color: #ff0;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    display: block;
+}
+.div{
+    margin: 20px;
+}

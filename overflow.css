@@ -1,0 +1,7 @@
+div{
+    background-color: #acacac;
+    width: 100px;
+    height: 150px;
+    overflow-x:auto ;
+    overflow-y: visible;
+}

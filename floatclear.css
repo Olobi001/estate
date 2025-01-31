@@ -1,0 +1,41 @@
+/* div{
+    border: 2px solid #0f0;
+}
+img{
+    float: inherit;
+}
+div{
+    float: left;
+    padding: 10px;
+}
+.red{
+    background-color: #f00;
+}
+.green{
+    background-color: #f0f;
+}
+.blue{
+    background-color: blue;
+} */
+ /* .one{
+    border: 2px solid #f00;
+    padding: 10px;
+    float: left;
+ }
+ .two{
+    border: 2px solid #0f0;
+    padding: 10px;
+    clear: left;
+ } */
+  div{
+    border: 2px solid #f0f;
+    /* overflow: auto; */
+  }
+  img{
+    float: right;
+  }
+  div::after{
+    content: "";
+    clear: both;
+    display: table;
+  }
