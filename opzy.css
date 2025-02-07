@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}body{
+    background-image: url(https://img.freepik.com/free-photo/yellow-potato-chips-isolated-white_93675-130603.jpg?ga=GA1.1.1508582139.1734516346&semt=ais_hybrid);
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* background-color: blue; */
+    margin-top: 30px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    color: red;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    /* padding: 50px; */
+    /* background-color: rgb(102, 102, 131); */
+    background-color: red;
+    padding: 20px;
+}
+li a{
+    text-decoration: none;
+    list-style-type: none;
+}
+.chips{
+    /* background-color: #00f; */
+    margin-top: 40px;
+}
+.snc{
+    font-size: 20px;
+    margin-left: 100px;
+}
