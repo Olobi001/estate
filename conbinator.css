@@ -1,0 +1,33 @@
+div p{
+    /* background-color: #f0f; */
+}
+div p{
+    
+}
+div~p{
+    background-color: #ff0;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    background-color: #ff0;
+}
+.pop{
+    background-color: #f0f;
+    padding: 10px;
+    width: 400%;
+    display: none;
+}
+div:hover p{
+    display: block;
+}
+/* p:last-child{
+    color: #00f;
+} */
+ p b:first-child{
+    background-color: #f0f;
+ }
